@@ -1,0 +1,30 @@
+﻿@model Inventory.Presentaion.App.ViewModel.IndexSupplierVM
+
+@{
+    ViewBag.Title = "Add Supplier";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add New Supplier</h2>
+
+
+
+<form asp-action="AddSupplier" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="SupplierName"></label>
+        <input asp-for="SupplierName" class="form-control" />
+        <span asp-validation-for="SupplierName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ContactInfo"></label>
+        <input asp-for="ContactInfo" class="form-control" />
+        <span asp-validation-for="ContactInfo" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add Supplier</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

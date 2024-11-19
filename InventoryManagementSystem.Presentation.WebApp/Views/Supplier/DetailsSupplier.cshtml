@@ -1,0 +1,35 @@
+﻿@model Inventory.Presentaion.App.ViewModel.IndexSupplierVM
+
+@{
+    ViewData["Title"] = "Supplier Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Supplier Details</h2>
+
+<div>
+    <h4>Supplier</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SupplierID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SupplierID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SupplierName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SupplierName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ContactInfo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ContactInfo)
+        </dd>
+    </dl>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

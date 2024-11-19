@@ -1,0 +1,26 @@
+﻿@model Inventory.Model.APP.Supplier
+
+@{
+    ViewData["Title"] = "Delete Supplier";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete Supplier</h2>
+
+<h3>Are you sure you want to delete this supplier?</h3>
+<div>
+    <div>
+        <h4>Are you sure you want to delete this customer?</h4>
+        <div>
+            <strong>Name:</strong> @Model.SupplierName<br />
+            <strong>ID:</strong> @Model.SupplierID<br />
+            <strong>Contact:</strong> @Model.ContactInfo<br />
+        </div>
+    </div>
+
+    <form asp-action="DeleteSupplier"   method="post" >
+        <input type="hidden" asp-for="SupplierID" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basma\\Downloads\\current (1)\\current\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\viewmodel\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\viewmodel\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventory.bussiness.app\\irepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|solutionrelative:inventory.bussiness.app\\irepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventory.bussiness.app\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|solutionrelative:inventory.bussiness.app\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventory.bussiness.app\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B90F26-C036-44EF-8848-E29836D076BC}|Inventory.Bussiness.App\\Inventory.Business.App.csproj|solutionrelative:inventory.bussiness.app\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\views\\customer\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\customer\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\reporting models\\productsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\reporting models\\productsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.model.app\\reporting models\\inventorystatusreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB337B9-968E-4440-A440-E660BB289C01}|InventorySD.Model.APP\\Inventory.Model.APP.csproj|solutionrelative:inventorysd.model.app\\reporting models\\inventorystatusreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73712E8-F04A-4E1F-B676-69262D33CEED}|InventorySD.Data.App\\Inventory.Data.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorysd.data.app\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73712E8-F04A-4E1F-B676-69262D33CEED}|InventorySD.Data.App\\Inventory.Data.App.csproj|solutionrelative:inventorysd.data.app\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|c:\\users\\basma\\downloads\\current (1)\\current\\inventorymanagementsystem.presentation.webapp\\viewmodel\\orderproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\Inventory.Presentation.App.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\viewmodel\\orderproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:13.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T22:08:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T21:35:19.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:33:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T21:24:00.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:40:51.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:31:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:22.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:33:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:24:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T22:02:37.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T21:39:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:31:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderVM.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderVM.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderVM.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:11:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:16:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:31:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:41:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\IRepositry.cs",
+              "RelativeDocumentMoniker": "Inventory.Bussiness.App\\IRepositry.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\IRepositry.cs",
+              "RelativeToolTip": "Inventory.Bussiness.App\\IRepositry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:49:08.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:47:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:33:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:11:36.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Product.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\Product.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Product.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:30:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\Repository.cs",
+              "RelativeDocumentMoniker": "Inventory.Bussiness.App\\Repository.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\Repository.cs",
+              "RelativeToolTip": "Inventory.Bussiness.App\\Repository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:44:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Bussiness.App\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\Inventory.Bussiness.App\\OrderRepository.cs",
+              "RelativeToolTip": "Inventory.Bussiness.App\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:45:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Updatecustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Updatecustomer.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Updatecustomer.cshtml",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Updatecustomer.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Customer\\Updatecustomer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:35:21.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\OrderProduct.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:30:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Order.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\Order.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Order.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:29:18.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Customer.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\Customer.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Customer.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:28:10.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductSalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Reporting Models\\ProductSalesReport.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\Reporting Models\\ProductSalesReport.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Reporting Models\\ProductSalesReport.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\Reporting Models\\ProductSalesReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:28:07.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InventoryStatusReport.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Reporting Models\\InventoryStatusReport.cs",
+              "RelativeDocumentMoniker": "InventorySD.Model.APP\\Reporting Models\\InventoryStatusReport.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Model.APP\\Reporting Models\\InventoryStatusReport.cs",
+              "RelativeToolTip": "InventorySD.Model.APP\\Reporting Models\\InventoryStatusReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:28:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Data.App\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "InventorySD.Data.App\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventorySD.Data.App\\InventoryContext.cs",
+              "RelativeToolTip": "InventorySD.Data.App\\InventoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:27:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderProductDetails.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderProductDetails.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\current (1)\\current\\InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderProductDetails.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\ViewModel\\OrderProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:14:15.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

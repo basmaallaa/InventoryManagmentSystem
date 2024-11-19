@@ -1,0 +1,40 @@
+﻿@model Inventory.Presentaion.App.ViewModel.IndexProductVM
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product Details</h2>
+
+<div class="form-group">
+    <label>Product Name:</label>
+    <p>@Model.Name</p>
+</div>
+
+<div class="form-group">
+    <label>Category:</label>
+    <p>@Model.Category</p>
+</div>
+
+<div class="form-group">
+    <label>Quantity:</label>
+    <p>@Model.Quantity</p>
+</div>
+
+<div class="form-group">
+    <label>Price:</label>
+    <p>@Model.Price</p>
+</div>
+
+<div class="form-group">
+    <label>Supplier Name:</label>
+    <p>@Model.SupplierName</p>
+</div>
+
+<div class="form-group">
+    <label>Supplier ID:</label>
+    <p>@Model.SupplierID</p>
+</div>
+
+<a href="@Url.Action("Index", "Product")" class="btn btn-secondary">Back to List</a>

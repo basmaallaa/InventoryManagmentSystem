@@ -1,0 +1,36 @@
+﻿@model IndexCustomerVM
+
+@{
+    ViewData["Title"] = "Updatecustomer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @using Inventory.Presentaion.App.ViewModel;
+}
+
+<h2>Update Customer</h2>
+
+<form asp-action="Updatecustomer" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone" class="control-label"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <input type="hidden" asp-for="CustomerID" />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+

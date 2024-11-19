@@ -1,0 +1,14 @@
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\InventorySD.Model.APP.deps.json
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\InventorySD.Model.APP.runtimeconfig.json
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\InventorySD.Model.APP.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\InventorySD.Model.APP.pdb
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.csproj.AssemblyReference.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.AssemblyInfoInputs.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.AssemblyInfo.cs
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.csproj.CoreCompileInputs.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\refint\InventorySD.Model.APP.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.pdb
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\InventorySD.Model.APP.genruntimeconfig.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\ref\InventorySD.Model.APP.dll

@@ -1,0 +1,27 @@
+﻿@model IndexProductVM
+@{
+    ViewData["Title"] = "Inventory Management System";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @using Inventory.Presentaion.App.ViewModel
+
+}
+<h2>Restock Product</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h3>@Model.Name</h3>
+        <p>Current Stock: @Model.Quantity</p>
+
+        <!-- Form for restocking the product -->
+        <form asp-action="SaveRestock" method="post">
+            <div class="form-group">
+                <label for="restockQuantity">Restock Quantity</label>
+                <input type="number" id="restockQuantity" name="restockQuantity" class="form-control" required min="1" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Restock" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Login</h1>
+
+<form action="/Account/Login" method="post">
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required />
+    </div>
+    <div>
+        <button type="submit">Login</button>
+    </div>
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div style="color: red;">@ViewBag.ErrorMessage</div>
+    }
+</form>

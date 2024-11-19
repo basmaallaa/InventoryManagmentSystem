@@ -1,0 +1,17 @@
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Data.App.deps.json
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Data.App.runtimeconfig.json
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Data.App.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Data.App.pdb
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Model.APP.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\bin\Debug\net8.0\InventorySD.Model.APP.pdb
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.csproj.AssemblyReference.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.AssemblyInfoInputs.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.AssemblyInfo.cs
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.csproj.CoreCompileInputs.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\Inventor.5AD91866.Up2Date
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\refint\InventorySD.Data.App.dll
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.pdb
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\InventorySD.Data.App.genruntimeconfig.cache
+C:\Users\basma\Desktop\C#\InventoryManagmentSystem\InventorySD.Data.App\obj\Debug\net8.0\ref\InventorySD.Data.App.dll

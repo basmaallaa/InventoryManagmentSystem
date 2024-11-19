@@ -1,0 +1,53 @@
+﻿@model List<Inventory.Presentaion.App.ViewModel.OrderVM.OrderViewModel>
+
+@{
+    ViewBag.Title = "Order List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .page-title {
+        font-size: 2rem; /* Larger font size */
+        font-weight: bold;
+        color: #3a6ea5; /* Custom color */
+        margin-bottom: 1rem; /* Spacing below title */
+        text-align: center; /* Center the title */
+        text-transform: uppercase; /* Make title uppercase */
+        border-bottom: 2px solid #3a6ea5; /* Adds an underline effect */
+        padding-bottom: 0.5rem; /* Space between title text and underline */
+    }
+</style>
+
+<h2 class="page-title">Orders</h2>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Order ID</th>
+            <th>Order Date</th>
+            <th>Customer</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@order.OrderDate.ToString("yyyy-MM-dd")</td>
+                <td>@order.CustomerName</td>
+                <td>@order.TotalAmount</td>
+                <td>@order.Status</td>
+                <td>
+                    <a href="/Order/Details/@order.OrderID" class="btn btn-info">Details</a>
+                    <a href="/Order/Edit/@order.OrderID" class="btn btn-warning">Edit</a>
+                    <a href="/Order/Delete/@order.OrderID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Order/Create" class="btn btn-success">Create New Order</a>

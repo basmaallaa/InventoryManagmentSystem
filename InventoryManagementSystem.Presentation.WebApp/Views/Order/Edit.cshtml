@@ -1,0 +1,70 @@
+﻿@model Inventory.Presentaion.App.ViewModel.OrderVM.EditOrderViewModel
+
+@{
+    ViewBag.Title = "Edit Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<h2>Edit Order</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.HiddenFor(model => model.OrderID)
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="CustomerID">Customer</label>
+        <select asp-for="CustomerID" class="form-control" asp-items="@(new SelectList(Model.Customers, "CustomerID", "Name"))">
+            <option value="">--Select Customer--</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="OrderDate">Order Date</label>
+        <input type="date" asp-for="OrderDate" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Status">Status</label>
+        <input asp-for="Status" class="form-control" />
+    </div>
+
+    <h3>Products</h3>
+    @for (int i = 0; i < Model.Products.Count; i++)
+    {
+        // Check if the index exists in SelectedProducts, and initialize if needed
+        if (i < Model.SelectedProducts.Count)
+        {
+            <div class="form-group">
+                <div class="form-check">
+                    <input type="checkbox" asp-for="@Model.SelectedProducts[i].IsSelected" class="form-check-input" />
+                    <input type="hidden" name="SelectedProducts[@i].ProductID" value="@Model.Products[i].ProductID" />
+                    <label class="form-check-label">@Model.Products[i].Name</label>
+                </div>
+
+                <div class="mt-3">
+                    <label>Quantity</label>
+                    <input type="number" asp-for="@Model.SelectedProducts[i].Quantity" min="1" class="form-control" />
+                </div>
+
+                <div class="mt-3">
+                    <label>Price</label>
+                    <input type="number" asp-for="@Model.SelectedProducts[i].Price" min="0.01" step="0.01" class="form-control" />
+                </div>
+            </div>
+        }
+    }
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+</form>
+
+<a href="/Order/Index" class="btn btn-primary">Back to Orders</a>

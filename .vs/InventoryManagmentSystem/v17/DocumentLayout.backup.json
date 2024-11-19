@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.PROGRAMMING\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\InventoryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\InventoryManagementSystem.Presentation.WebApp.csproj|d:\\.programming\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\inventorymanagmentsystem\\inventorymanagementsystem.presentation.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\InventoryManagementSystem.Presentation.WebApp.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\InventoryManagementSystem.Presentation.WebApp.csproj|d:\\.programming\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\inventorymanagmentsystem\\inventorymanagementsystem.presentation.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3770CEF3-D752-42A7-A843-7B40F3989A87}|InventoryManagementSystem.Presentation.WebApp\\InventoryManagementSystem.Presentation.WebApp.csproj|solutionrelative:inventorymanagementsystem.presentation.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.PROGRAMMING\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\InventoryManagmentSystem\\InventoryManagementSystem.Presentation.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.PROGRAMMING\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\InventoryManagmentSystem\\InventoryManagementSystem.Presentation.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T21:16:56.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.PROGRAMMING\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\InventoryManagmentSystem\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.PROGRAMMING\\2 \u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\project\\InventoryManagmentSystem\\InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InventoryManagementSystem.Presentation.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:54:43.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

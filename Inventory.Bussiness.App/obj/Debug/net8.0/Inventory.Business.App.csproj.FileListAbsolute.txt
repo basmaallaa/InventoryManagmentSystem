@@ -1,0 +1,85 @@
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.deps.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.AssemblyReference.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfoInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfo.cs
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.CoreCompileInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventor.7BD8A972.Up2Date
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\refint\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\ref\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.deps.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.AssemblyReference.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfoInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfo.cs
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.CoreCompileInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventor.7BD8A972.Up2Date
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\refint\Inventory.Business.App.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\ref\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.deps.json
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.AssemblyReference.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfoInputs.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfo.cs
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.CoreCompileInputs.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventor.7BD8A972.Up2Date
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\refint\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\Inventory.Bussiness.App\obj\Debug\net8.0\ref\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.deps.json
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.pdb
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.AssemblyReference.cache
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfoInputs.cache
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfo.cs
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.CoreCompileInputs.cache
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventor.7BD8A972.Up2Date
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\refint\Inventory.Business.App.dll
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\Hyper Tech\Desktop\current\Inventory.Bussiness.App\obj\Debug\net8.0\ref\Inventory.Business.App.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.deps.json
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Data.App.pdb
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.AssemblyReference.cache
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfoInputs.cache
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.AssemblyInfo.cs
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.csproj.CoreCompileInputs.cache
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventor.7BD8A972.Up2Date
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\refint\Inventory.Business.App.dll
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\Inventory.Business.App.pdb
+C:\Users\basma\Downloads\current (1)\current\Inventory.Bussiness.App\obj\Debug\net8.0\ref\Inventory.Business.App.dll

@@ -1,0 +1,84 @@
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+C:\Users\Hyper Tech\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem - Copy\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+D:\.PROGRAMMING\2 رواد مصر الرقمية\project\InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+C:\Users\Hyper Tech\Desktop\2024.10.19 InventoryManagmentSystem\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+C:\Users\Hyper Tech\Desktop\current\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.deps.json
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.runtimeconfig.json
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\bin\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.AssemblyReference.cache
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfoInputs.cache
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.AssemblyInfo.cs
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.csproj.CoreCompileInputs.cache
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.dll
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\refint\Inventory.Model.APP.dll
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.pdb
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\Inventory.Model.APP.genruntimeconfig.cache
+C:\Users\basma\Downloads\current (1)\current\InventorySD.Model.APP\obj\Debug\net8.0\ref\Inventory.Model.APP.dll
